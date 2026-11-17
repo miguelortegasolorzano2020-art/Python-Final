@@ -63,31 +63,31 @@ These operations helped me organize the data and identify meaningful sales patte
 
 ### 1. Global Video Game Sales by Genre
 
-![Global sales by genre](images/genre_sales.png)
+![Global sales by genre](1.png)
 
 Action games generated the highest total global sales, with approximately 1,722.88 million copies, followed by Sports games with 1,309.24 million copies.
 
 ### 2. Top 10 Platforms by Global Video Game Sales
 
-![Top platforms](images/platform_sales.png)
+![Top platforms](2.png)
 
 PlayStation 2 had the highest total recorded game sales, with approximately 1,233.46 million copies.
 
 ### 3. Global Video Game Sales by Release Year
 
-![Sales by release year](images/yearly_sales.png)
+![Sales by release year](3.png)
 
 This chart compares the total recorded global sales of games grouped by release year. These values should not be interpreted as annual industry revenue or annual sales transactions.
 
 ### 4. Top 10 Best-Selling Video Games
 
-![Top games](images/top_10_games.png)
+![Top games](4.png)
 
 Wii Sports was the best-selling game record in the dataset, with approximately 82.74 million copies sold worldwide.
 
 ### 5. Distribution of Global Video Game Sales
 
-![Sales distribution](images/sales_distribution.png)
+![Sales distribution](5.png)
 
 The distribution shows that most game records have relatively low sales, while a small number have exceptionally high sales.
 
